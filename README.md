@@ -27,10 +27,13 @@ Welcome to my GitHub space! **I'm Muhammad Ahsan**, a coding enthusiast on a jou
 
 ## Check Out My Projects 📊
 
-![Your GitHub Stats](http://furniro-hackathon.netlify.app/)
+### Furniro
+[![Furniro](http://furniro-hackathon.netlify.app/)](http://furniro-hackathon.netlify.app/)
 
-![Top Languages](https://blogsterra.netlify.app/)
+### BlogsTerra
+[![BlogsTerra](https://blogsterra.netlify.app/)](https://blogsterra.netlify.app/)
 
+## Let's Collaborate! 🤝
 ## Let's Collaborate! 🤝
 
 - 🌟 Excited to embark on coding adventures and collaborate with fellow enthusiasts.
