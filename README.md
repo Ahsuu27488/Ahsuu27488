@@ -25,11 +25,11 @@ Welcome to my GitHub space! **I'm Muhammad Ahsan**, a coding enthusiast on a jou
 - 🎥 I have a passion for content editing and storytelling, constantly seeking ways to enhance narratives and visuals.
 - 📚 Lifelong learner, I thrive on exploring new subjects and acquiring new skills to broaden my horizons.
 
-## Check Out My Stats 📊
+## Check Out My Projects 📊
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahsuu2748&show_icons=true&theme=dark)
+![Your GitHub Stats](http://furniro-hackathon.netlify.app/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsuu2748&layout=compact&theme=dark)
+![Top Languages](https://blogsterra.netlify.app/)
 
 ## Let's Collaborate! 🤝
 
