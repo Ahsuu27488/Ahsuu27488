@@ -28,10 +28,10 @@ Welcome to my GitHub space! **I'm Muhammad Ahsan**, a coding enthusiast on a jou
 ## Check Out My Projects 📊
 
 ### Furniro
-[![Furniro](http://furniro-hackathon.netlify.app/)](http://furniro-hackathon.netlify.app/)
+[![Furniro](http://furniro-hackathon.netlify.app/)]([http://furniro-hackathon.netlify.app/](https://github.com/Ahsuu27488/ui-ux-hackathon/blob/main/public/images/banner.png?raw=true))
 
 ### BlogsTerra
-[![BlogsTerra](https://blogsterra.netlify.app/)](https://blogsterra.netlify.app/)
+[![BlogsTerra](https://blogsterra.netlify.app/)]([https://blogsterra.netlify.app/](https://github.com/Ahsuu27488/BlogsTerra/blob/main/banner.png?raw=true))
 
 ## Let's Collaborate! 🤝
 ## Let's Collaborate! 🤝
