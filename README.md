@@ -2,6 +2,16 @@
 
 I build **AI agents, RAG chatbots and full-stack apps**, and take them all the way to production: code, deployment, docs and releases. I'm a developer from Nawabshah, Pakistan, and a student in the GIAIC / [Panaversity](https://github.com/panaversity) program.
 
+## 🛠️ Latest: Taskvane, a better Task Manager for Windows 11 · [code](https://github.com/Ahsuu27488/taskvane) · [site](https://taskvane.ahsandev.site)
+
+<a href="https://taskvane.ahsandev.site"><img src="https://raw.githubusercontent.com/Ahsuu27488/taskvane/main/website/public/img/og.png" alt="Taskvane: a better Task Manager for Windows 11" width="560"></a>
+
+A free, open-source Windows app with CPU and GPU temperatures, power draw in watts and battery health, using about 0.4% CPU.
+
+- Python desktop app with a WebView2 UI, hardware sensors in a crash-isolated helper process, and process stats from a single `NtQuerySystemInformation` call
+- Handles elevation, a signed kernel driver and scheduled tasks; ships as an installer and a portable zip through GitHub Actions
+- [Website](https://taskvane.ahsandev.site) built with Astro, with structured data for search engines and AI assistants
+
 ## 🤖 What I do with AI
 
 - **AI agents:** multi-agent systems on the **OpenAI Agents SDK** with handoffs between specialist agents, streaming responses and tools that change real data
@@ -33,16 +43,6 @@ An interactive textbook (ROS 2, Gazebo, NVIDIA Isaac, vision-language-action mod
 - **Personalization:** lessons adapt to the reader's software and hardware background
 - **One-click Urdu translation** by an LLM, cached so each page is only translated once
 - **Stack:** Docusaurus, FastAPI, Qdrant, OpenAI, Better Auth, deployed on GitHub Pages and Railway
-
-### Taskvane: a better Task Manager for Windows 11 · [code](https://github.com/Ahsuu27488/taskvane) · [site](https://taskvane.ahsandev.site)
-
-<a href="https://taskvane.ahsandev.site"><img src="https://raw.githubusercontent.com/Ahsuu27488/taskvane/main/website/public/img/og.png" alt="Taskvane: a better Task Manager for Windows 11" width="560"></a>
-
-A free, open-source Windows app with CPU and GPU temperatures, power draw in watts and battery health, using about 0.4% CPU.
-
-- Python desktop app with a WebView2 UI, hardware sensors in a crash-isolated helper process, and process stats from a single `NtQuerySystemInformation` call
-- Handles elevation, a signed kernel driver and scheduled tasks; ships as an installer and a portable zip through GitHub Actions
-- [Website](https://taskvane.ahsandev.site) built with Astro, with structured data for search engines and AI assistants
 
 ## 🚀 More projects
 
